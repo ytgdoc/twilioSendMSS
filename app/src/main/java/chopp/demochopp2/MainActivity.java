@@ -26,8 +26,8 @@ import okhttp3.ResponseBody;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     // Find your Account Sid and Token at twilio.com/user/account
-    public static final String ACCOUNT_SID = "AC6184873b9746c24f0615b192bb3194cd";
-    public static final String AUTH_TOKEN = "1424d881a14d0328fec55bcd21b4a6fa";
+    public static final String ACCOUNT_SID = "Your_sid";
+    public static final String AUTH_TOKEN = "Your_token";
     EditText editphone;
     Button btnsend;
     private String TAG ="Chopp On";
